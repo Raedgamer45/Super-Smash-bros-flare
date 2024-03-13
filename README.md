@@ -1,2 +1,7 @@
 # Super-Smash-bros-flare
-Information about who is playable in this smash bros game that'll probably take like five whole damn decades to finish
+
+Super smash brothers flare is a smash brothers game where you choose a character and fight against people.
+
+The roster
+
+
